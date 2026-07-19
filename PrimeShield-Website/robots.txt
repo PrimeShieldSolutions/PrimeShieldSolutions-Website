@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://primeshieldsolutions.ca/sitemap.xml
