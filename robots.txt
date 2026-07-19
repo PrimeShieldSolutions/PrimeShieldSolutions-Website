@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://primeshieldsolutions.ca/sitemap.xml
+Sitemap: https://primeshieldsolutions.info/sitemap.xml
